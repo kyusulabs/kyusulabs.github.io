@@ -1,0 +1,23 @@
+{
+  "name": "kyusulabs.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyusulabs/kyusulabs.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyusulabs/kyusulabs.github.io/issues"
+  },
+  "homepage": "https://kyusulabs.github.io",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
